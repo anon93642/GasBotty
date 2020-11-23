@@ -1,0 +1,16 @@
+cython==0.29.21
+keras-resnet==0.2.0
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+h5py==2.10.0
+keras==2.4.3
+matplotlib
+numpy>=1.14
+opencv-python==3.4.8.29
+pillow
+progressbar2
+tensorflow==2.3.0
+torch==1.5.1
+torchvision==0.6.1
+scikit-learn
+argparse
+glob2
